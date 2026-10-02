@@ -35,13 +35,13 @@
 
 | # | Lesson | Status |
 |---|---|---|
-| 01 | [You Have Agency](./01/01-agency.md) | ✅ |
-| 02 | [Take Responsibility — Provide Options](./01/02-responsibility-and-options.md) | ✅ |
-| 03 | [Software Entropy & Broken Windows](./01/03-software-entropy-broken-windows.md) | ✅ |
-| 04 | [Stone Soup & Boiled Frog](./01/04-stone-soup-and-boiled-frog.md) | ✅ |
-| 05 | [Good-Enough Software](./01/05-good-enough-software.md) | ✅ |
-| 06 | [Your Knowledge Portfolio](./01/06-knowledge-portfolio.md) | ✅ |
-| 07 | [Communicate!](./01/07-communication.md) | ✅ |
+| 01 | [You Have Agency](./Chapter01/01-agency.md) | ✅ |
+| 02 | [Take Responsibility — Provide Options](./Chapter01/02-responsibility-and-options.md) | ✅ |
+| 03 | [Software Entropy & Broken Windows](./Chapter01/03-software-entropy-broken-windows.md) | ✅ |
+| 04 | [Stone Soup & Boiled Frog](./Chapter01/04-stone-soup-and-boiled-frog.md) | ✅ |
+| 05 | [Good-Enough Software](./Chapter01/05-good-enough-software.md) | ✅ |
+| 06 | [Your Knowledge Portfolio](./Chapter01/06-knowledge-portfolio.md) | ✅ |
+| 07 | [Communicate!](./Chapter01/07-communication.md) | ✅ |
 
 ---
 
